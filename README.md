@@ -2,12 +2,6 @@
 
 Multi-screen React Native app dengan React Navigation untuk menjelajahi destinasi wisata Indonesia.
 
-## Screenshots
-
-| HomeScreen | DetailScreen | SearchScreen | FavoritesScreen |
-|:---:|:---:|:---:|:---:|
-| <img src="homescreen.jpeg" width="200"/> | <img src="detail.jpeg" width="200"/> | <img src="search.jpeg" width="200"/> | <img src="favorite.jpeg" width="200"/> |
-
 ## Features
 
 - **Bottom Tab Navigation** — Home, Search (Cari), Favorites (Favorit)
@@ -44,5 +38,15 @@ npx expo start
 ```
 
 Scan QR code di aplikasi Expo Go (iOS / Android).
+
+## Screenshots
+
+| HomeScreen | DetailScreen | SearchScreen | FavoritesScreen |
+|:---:|:---:|:---:|:---:|
+| <img src="homescreen.jpeg" width="200"/> | <img src="detail.jpeg" width="200"/> | <img src="search.jpeg" width="200"/> | <img src="favorite.jpeg" width="200"/> |
+
+## Author
+Mey Claudya Silalahi
+
 
 

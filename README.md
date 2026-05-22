@@ -6,7 +6,7 @@ Multi-screen React Native app dengan React Navigation untuk menjelajahi destinas
 
 | HomeScreen | DetailScreen | SearchScreen | FavoritesScreen |
 |:---:|:---:|:---:|:---:|
-| ![alt text](homescreen.jpeg) | ![alt text](detail.jpeg) | ![alt text](search.jpeg) | ![alt text](favorite.jpeg) |
+| <img src="homescreen.jpeg" width="200"/> | <img src="detail.jpeg" width="200"/> | <img src="search.jpeg" width="200"/> | <img src="favorite.jpeg" width="200"/> |
 
 ## Features
 
